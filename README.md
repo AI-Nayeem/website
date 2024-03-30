@@ -12,7 +12,7 @@
 
 
 # Technologies used :
-* HTML, CSS, Bootstrap for frontend
+* HTML, CSS, and a little bit Bootstrap 
 * PHP and MySQL for backend
 
 # Before use :
