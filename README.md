@@ -3,11 +3,10 @@
 
 
 # Functionalities : 
-           - login system : create acc, delete acc, update user details
-           - watching movies/videos
-           - latest updated videos
-           - most viewed videos
-           - search functionality
+           1.login system : create acc, delete acc, update user details
+           2.watching movies trailer
+           3.most viewed videos
+           4.search based on different criteria 
 * the one to signup first is the admin
 * only the admin has the rights to upload movies/videos and images.
 
