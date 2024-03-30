@@ -1,4 +1,4 @@
-# FilmFiesta
+# FilmFiesta: This is a simple movie database website 
 
 
 
@@ -13,14 +13,7 @@
 
 # Technologies used :
 * HTML, CSS, and a little bit Bootstrap 
-* PHP and MySQL for backend
-
-# Before use :
-
-- truncate all the tables after importing them from the sql-files folder & edit the database name in dbh.php
-- create a "uploads" folder to store the uploaded images/posters of the movie/video.
-- create a "video-uploads" folder to store uploaded videos of the corresponding image.
-- enter 1st row of the table manually and transfer video and image to the respective folders.
+* PHP and MySQL for backend 
 
 
 # Screenshots :
